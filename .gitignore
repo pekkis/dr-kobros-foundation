@@ -1,0 +1,7 @@
+client/web/app.*
+client/node_modules/
+server/node_modules/
+legacy/
+*/config.js
+.idea/
+client/web/assets/

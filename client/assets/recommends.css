@@ -1,0 +1,63 @@
+
+body {
+	padding: 1em;	
+}
+
+
+
+h1 {
+	font-weight: normal;
+	font-size: 35px;
+	font-family: Edmunds, "Times New Roman", serif;
+}
+
+div#outer {
+	
+}
+
+div#inner {
+	margin: 0 auto;
+	width: 960px;
+}
+
+div#content {
+text-align: left;
+}
+
+/* kobros subpage */
+
+div#kobros_sub {
+	background-image: url('/lib/images/drkobros_small_reversed.jpg');
+	background-repeat: no-repeat;
+	background-position: -40px -20px;
+	height: 400px;
+}
+
+	div#kobros_sub h1 {
+		margin: 0 0 50px 30px;
+	}
+
+/* global kobros */
+
+#kobros-network {
+	margin-top: 0.2em;	
+}
+
+.error {
+	color: #FF0000;
+	font-weight: bold;
+
+}
+
+
+.centerer {
+	text-align: center;
+}
+
+
+#do-recommend input, #do-recommend select {
+    font-family: Edmunds, "Times New Roman", serif;
+    font-size: 35px;
+    background-color: rgba(68, 43,23, .05);
+    border: 0;
+}
